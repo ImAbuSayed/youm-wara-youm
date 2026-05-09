@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Youm Wara Youm
+
+This log tracks the cryptographic history and versioning for the song **Youm Wara Youm** (youm-wara-youm).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:20:03.157470 | `v1` | `ea352ef5b290d1a628a90d19d9a6a1a0ff8dca4627870040524f408867e252b6` | `2c9e4fc52a2ff7726f09413edbd1fcecc2a0fe7562c236add3bd9f0dc5bdfc06` | `2026-05-09_youm-wara-youm-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
